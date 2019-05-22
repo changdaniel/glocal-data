@@ -1,0 +1,580 @@
+{
+  "profileQuestions": [
+    {
+      "question": "WHICH OF THESE SUBJECT(S) INTERESTS YOU?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "CULTURE",
+          "image": "../assets/questionIcons/1.png",
+          "no": 1
+        },
+        {
+          "name": "GEM LOCATIONS",
+          "image": "../assets/questionIcons/2.png",
+          "no": 2
+        },
+        {
+          "name": "FOOD & WINE",
+          "image": "../assets/questionIcons/3.png",
+          "no": 3
+        },
+        {
+          "name": "NIGHTLIFE",
+          "image": "../assets/questionIcons/4.png",
+          "no": 4
+        },
+        {
+          "name": "EARLY BIRD",
+          "image": "../assets/questionIcons/5.png",
+          "no": 5
+        },
+        {
+          "name": "CITY TOUR",
+          "image": "../assets/questionIcons/6.png",
+          "no": 6
+        },
+        {
+          "name": "MUSEUMS",
+          "image": "../assets/questionIcons/7.png",
+          "no": 7
+        }
+      ]
+    },
+    {
+      "question": "WHAT IS YOUR AGE?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "15-18 YEARS",
+          "image": "../assets/questionIcons/8.png",
+          "no": 8
+        },
+        {
+          "name": "19-25 YEARS",
+          "image": "../assets/questionIcons/8.png",
+          "no": 8
+        },
+        {
+          "name": "26-31 YEARS",
+          "image": "../assets/questionIcons/8.png",
+          "no": 8
+        },
+        {
+          "name": "32-39 YEARS",
+          "image": "../assets/questionIcons/8.png",
+          "no": 8
+        },
+        {
+          "name": "40-50 YEARS",
+          "image": "../assets/questionIcons/8.png",
+          "no": 8
+        },
+        {
+          "name": "ABOVE 50",
+          "image": "../assets/questionIcons/8.png",
+          "no": 8
+        }
+      ]
+    },
+    {
+      "question": "WHAT KIND OF TRIPS DO YOU NORMALLY TAKE?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "LEISURE",
+          "image": "../assets/questionIcons/9.png",
+          "no": 9
+        },
+        {
+          "name": "FAMILY",
+          "image": "../assets/questionIcons/10.png",
+          "no": 10
+        },
+        {
+          "name": "ROMANTIC",
+          "image": "../assets/questionIcons/11.png",
+          "no": 11
+        },
+        {
+          "name": "OFFICIAL",
+          "image": "../assets/questionIcons/12.png",
+          "no": 12
+        },
+        {
+          "name": "BREAKING FROM THE REGULAR",
+          "image": "../assets/questionIcons/13.png",
+          "no": 13
+        },
+        {
+          "name": "BACHELOR",
+          "image": "../assets/questionIcons/14.png",
+          "no": 14
+        },
+        {
+          "name": "FUN",
+          "image": "../assets/questionIcons/15.png",
+          "no": 15
+        },
+        {
+          "name": "ADVENTURE",
+          "image": "../assets/questionIcons/16.png",
+          "no": 16
+        }
+      ]
+    },
+    {
+      "question": "WHICH EXCITES YOU?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "FUN & GAMES",
+          "image": "../assets/questionIcons/17.png",
+          "no": 17
+        },
+        {
+          "name": "MONUMENTS & STATUES",
+          "image": "../assets/questionIcons/18.png",
+          "no": 18
+        },
+        {
+          "name": "HISTORY",
+          "image": "../assets/questionIcons/19.png",
+          "no": 19
+        },
+        {
+          "name": "MOTHER NATURE",
+          "image": "../assets/questionIcons/20.png",
+          "no": 20
+        },
+        {
+          "name": "RELIGION",
+          "image": "../assets/questionIcons/21.png",
+          "no": 21
+        },
+        {
+          "name": "SPORTS",
+          "image": "../assets/questionIcons/22.png",
+          "no": 22
+        },
+        {
+          "name": "MOVIES",
+          "image": "../assets/questionIcons/23.png",
+          "no": 23
+        },
+        {
+          "name": "MUSIC",
+          "image": "../assets/questionIcons/24.png",
+          "no": 24
+        }
+      ]
+    },
+    {
+      "question": "WHAT TYPE OF FOOD EXPERIENCES DO YOU LIKE?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "ARTISAN",
+          "image": "../assets/questionIcons/25.png",
+          "no": 25
+        },
+        {
+          "name": "LOCAL",
+          "image": "../assets/questionIcons/26.png",
+          "no": 26
+        },
+        {
+          "name": "SWEET HEAVY",
+          "image": "../assets/questionIcons/27.png",
+          "no": 27
+        },
+        {
+          "name": "EXCLUSIVE DINING",
+          "image": "../assets/questionIcons/28.png",
+          "no": 28
+        },
+        {
+          "name": "PARTY ORIENTED",
+          "image": "../assets/questionIcons/29.png",
+          "no": 29
+        },
+        {
+          "name": "EXPENSIVE INDULGENCE",
+          "image": "../assets/questionIcons/30.png",
+          "no": 30
+        },
+        {
+          "name": "QUICK BITES",
+          "image": "../assets/questionIcons/31.png",
+          "no": 31
+        },
+        {
+          "name": "HEALTHY",
+          "image": "../assets/questionIcons/32.png",
+          "no": 32
+        }
+      ]
+    },
+    {
+      "question": "DO YOU ENJOY LEARNING ABOUT DIFFERENT CULTURES?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "SURE",
+          "image": "../assets/questionIcons/33.png",
+          "no": 33
+        },
+        {
+          "name": "NOT SURE",
+          "image": "../assets/questionIcons/34.png",
+          "no": 34
+        },
+        {
+          "name": "MAYBE",
+          "image": "../assets/questionIcons/35.png",
+          "no": 35
+        }
+      ]
+    },
+    {
+      "question": "WHAT KIND OF BOOKS DO YOU LIKE TO READ?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "FICTION",
+          "image": "../assets/questionIcons/36.png",
+          "no": 36
+        },
+        {
+          "name": "SCI-FI",
+          "image": "../assets/questionIcons/37.png",
+          "no": 37
+        },
+        {
+          "name": "HISTORY",
+          "image": "../assets/questionIcons/38.png",
+          "no": 38
+        },
+        {
+          "name": "POETRY",
+          "image": "../assets/questionIcons/39.png",
+          "no": 39
+        },
+        {
+          "name": "BIOGRAPHIES",
+          "image": "../assets/questionIcons/40.png",
+          "no": 40
+        },
+        {
+          "name": "DRAMA",
+          "image": "../assets/questionIcons/41.png",
+          "no": 41
+        },
+        {
+          "name": "MYSTERIES",
+          "image": "../assets/questionIcons/42.png",
+          "no": 42
+        },
+        {
+          "name": "ROMANCE",
+          "image": "../assets/questionIcons/43.png",
+          "no": 43
+        },
+        {
+          "name": "COMEDY",
+          "image": "../assets/questionIcons/44.png",
+          "no": 44
+        }
+      ]
+    },
+    {
+      "question": "WHICH SHOPPING EXPERIENCE(S) EXCITES YOU THE MOST?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "LOCAL MARKET",
+          "image": "../assets/questionIcons/45.png",
+          "no": 45
+        },
+        {
+          "name": "FLEA MARKET",
+          "image": "../assets/questionIcons/46.png",
+          "no": 46
+        },
+        {
+          "name": "SHOPPING MALLS",
+          "image": "../assets/questionIcons/47.png",
+          "no": 47
+        },
+        {
+          "name": "LUXURY MARKET",
+          "image": "../assets/questionIcons/48.png",
+          "no": 48
+        }
+      ]
+    },
+    {
+      "question": "WHAT KIND OF LOCAL HANGOUT ARE YOU MOST LIKELY TO VISIT WHILE ON A VACATION?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "COFFEE SHOPS",
+          "image": "../assets/questionIcons/49.png",
+          "no": 49
+        },
+        {
+          "name": "MUSEUMS",
+          "image": "../assets/questionIcons/50.png",
+          "no": 50
+        },
+        {
+          "name": "CONCERTS",
+          "image": "../assets/questionIcons/51.png",
+          "no": 51
+        },
+        {
+          "name": "SHOPPING",
+          "image": "../assets/questionIcons/52.png",
+          "no": 52
+        },
+        {
+          "name": "UNIVERSITIES",
+          "image": "../assets/questionIcons/53.png",
+          "no": 53
+        }
+      ]
+    },
+    {
+      "question": "WHICH KIND OF ACTIVITIES INTERESTS YOU THE MOST?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "HIGH ENERGY",
+          "image": "../assets/questionIcons/54.png",
+          "no": 54
+        },
+        {
+          "name": "MEDIUM ENERGY",
+          "image": "../assets/questionIcons/55.png",
+          "no": 55
+        },
+        {
+          "name": "LOW ENERGY",
+          "image": "../assets/questionIcons/56.png",
+          "no": 56
+        }
+      ]
+    },
+    {
+      "question": "HOW WOULD YOU DEFINE YOUR WORK/STUDY LIFE?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "ACTIVE",
+          "image": "../assets/questionIcons/57.png",
+          "no": 57
+        },
+        {
+          "name": "ROUTINE",
+          "image": "../assets/questionIcons/58.png",
+          "no": 58
+        },
+        {
+          "name": "COUCH FRIENDLY",
+          "image": "../assets/questionIcons/59.png",
+          "no": 59
+        }
+      ]
+    },
+    {
+      "question": "GIVEN AN OPPORTUNITY, WHICH ONE OF THE BELOW WOULD YOU LIKE TO LEARN?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "CRAFTS",
+          "image": "../assets/questionIcons/60.png",
+          "no": 60
+        },
+        {
+          "name": "COOKING",
+          "image": "../assets/questionIcons/61.png",
+          "no": 61
+        },
+        {
+          "name": "OUTDOOR SPORTS",
+          "image": "../assets/questionIcons/62.png",
+          "no": 62
+        },
+        {
+          "name": "CULTURE",
+          "image": "../assets/questionIcons/63.png",
+          "no": 63
+        }
+      ]
+    },
+    {
+      "question": "HOW MUCH IS SAFETY A CONCERN FOR YOU IN A TRIP?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "VERY MUCH",
+          "image": "../assets/questionIcons/64.png",
+          "no": 64
+        },
+        {
+          "name": "MODERATELY",
+          "image": "../assets/questionIcons/55.png",
+          "no": 55
+        },
+        {
+          "name": "DOESN'T MATTER",
+          "image": "../assets/questionIcons/34.png",
+          "no": 34
+        }
+      ]
+    }
+  ],
+  "tripQuestions": [
+    {
+      "question": "WHICH ACTIVITY WOULD YOU PREFER FOR THIS TRIP?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "OUTDOOR",
+          "image": "../assets/questionIcons/65.png",
+          "no": 65
+        },
+        {
+          "name": "INDOOR",
+          "image": "../assets/questionIcons/66.png",
+          "no": 66
+        }
+      ]
+    },
+    {
+      "question": "WHAT KIND OF TRIP IS THIS?",
+      "allowMultiple": true,
+      "options": [
+        {
+          "name": "LEISURE",
+          "image": "../assets/questionIcons/9.png",
+          "no":9
+        },
+        {
+          "name": "FAMILY",
+          "image": "../assets/questionIcons/10.png",
+          "no":10
+        },
+        {
+          "name": "ROMANTIC",
+          "image": "../assets/questionIcons/11.png",
+          "no": 11
+        },
+        {
+          "name": "OFFICIAL",
+          "image": "../assets/questionIcons/12.png",
+          "no":12
+        },
+        {
+          "name": "BREAKING FROM THE REGULAR",
+          "image": "../assets/questionIcons/13.png",
+          "no":13
+        },
+        {
+          "name": "BACHELOR",
+          "image": "../assets/questionIcons/14.png",
+          "no":14
+        },
+        {
+          "name": "FUN",
+          "image": "../assets/questionIcons/15.png",
+          "no":15
+        },
+        {
+          "name": "ADVENTURE",
+          "image": "../assets/questionIcons/16.png",
+          "no":16
+        }
+      ]
+    },
+    {
+      "question": "WHO ARE YOU TRAVELLING WITH?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "FRIENDS",
+          "image": "../assets/questionIcons/67.png",
+          "no": 67
+        },
+        {
+          "name": "FAMILY WITH KIDS",
+          "image": "../assets/questionIcons/68.png",
+          "no":68
+        },
+        {
+          "name": "FAMILY WITHOUT KIDS",
+          "image": "../assets/questionIcons/69.png",
+          "no":69
+        },
+        {
+          "name": "OFFICE COLLEAGUE",
+          "image": "../assets/questionIcons/70.png",
+          "no":70
+        }
+      ]
+    },
+    {
+      "question": "WHAT IS YOUR BUDGET EXCLUDING HOTEL AND AIR-TRAVEL AND SHOPPING?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "LOW",
+          "image": "../assets/questionIcons/67.png",
+          "no":67
+        },
+        {
+          "name": "MEDIUM",
+          "image": "../assets/questionIcons/68.png",
+          "no":68
+        },
+        {
+          "name": "PRICE DOESN'T MATTER",
+          "image": "../assets/questionIcons/69.png",
+          "no":69
+        }
+      ]
+    },
+    {
+      "question": "HAVE YOU BEEN IN THIS CITY BEFORE?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "YES",
+          "image": "../assets/questionIcons/33.png",
+          "no":33
+        },
+        {
+          "name": "NO",
+          "image": "../assets/questionIcons/34.png",
+          "no":34
+        }
+      ]
+    },
+    {
+      "question": "DID YOU TRY LOCAL FOOD IN YOUR LAST TRIP?",
+      "allowMultiple": false,
+      "options": [
+        {
+          "name": "YES",
+          "image": "../assets/questionIcons/33.png",
+          "no":33
+        },
+        {
+          "name": "NO",
+          "image": "../assets/questionIcons/34.png",
+          "no":34
+        }
+      ]
+    }
+  ]
+}
