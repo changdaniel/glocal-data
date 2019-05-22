@@ -11,7 +11,6 @@ parents = {}
 
 for category, number in chicago.items():
 	
-	
 	for cat in yelp:
 
 		if cat['alias'] == category:
@@ -23,7 +22,8 @@ for category, number in chicago.items():
 				catparent = "string";
 
 	if (catparents == [] and category not in parents):
-		parents[category] = number
+		pass
+		#parents[category] = number
 	
 	elif (catparents != [] and catparent not in parents):
 		parents[catparent] = {category: number}
@@ -39,7 +39,7 @@ for category, number in chicago.items():
 
 #topcatdict = dict(topcat)
 
-# with open('../json/chicagoparentcategorieslevel2.json', 'w') as outfile:
-#  	json.dump(topcatdict, outfile, indent = 4)
+with open('chicagocategorytree.json', 'w') as outfile:
+  	json.dump(parents, outfile, indent = 4)
 
 pprint(parents)
