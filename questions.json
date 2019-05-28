@@ -7,7 +7,8 @@
         {
           "name": "CULTURE",
           "image": "../assets/questionIcons/1.png",
-          "no": 1
+          "no": 1,
+          "categories": []
         },
         {
           "name": "GEM LOCATIONS",
